@@ -1,5 +1,5 @@
 <title>
-  {{ page.title }}
+  {{ page.title = TITLE }}
 </title>
 <p>Hello world</p>
 
