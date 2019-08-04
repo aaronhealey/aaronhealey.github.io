@@ -1,6 +1,6 @@
-<title>
-  {{ page.title = TITLE }}
-</title>
+---
+title: "TEST"
+---
 <p>Hello world</p>
 
 <p>Test</p>
