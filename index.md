@@ -1,8 +1,4 @@
-<head>
-
-<title>Hello there</title>
-
-</head>
+{page.title = HOME}
 <p>Hello world</p>
 
 <p>Test</p>
