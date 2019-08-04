@@ -1,4 +1,6 @@
-{page.title = HOME}
+<title>
+  {{ page.title }}
+</title>
 <p>Hello world</p>
 
 <p>Test</p>
